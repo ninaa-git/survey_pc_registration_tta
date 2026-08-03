@@ -1,0 +1,20 @@
+# ninja log v7
+3	5825	1778327045885192160	/home/kylo-ren/Documents/registration/pc-registration/silico/PARENet/pareconv/extensions/pointops/build/temp.linux-aarch64-cpython-310/src/sampling/sampling_cuda.o	68eb792559261c9f
+2	5990	1778327045884505968	/home/kylo-ren/Documents/registration/pc-registration/silico/PARENet/pareconv/extensions/pointops/build/temp.linux-aarch64-cpython-310/src/knnquery_heap/knnquery_heap_cuda.o	56a76dd91c5b0867
+1	6044	1778327045882000000	/home/kylo-ren/Documents/registration/pc-registration/silico/PARENet/pareconv/extensions/pointops/build/temp.linux-aarch64-cpython-310/src/ballquery/ballquery_cuda.o	e3c57c268ccf8882
+3	6146	1778327045884830944	/home/kylo-ren/Documents/registration/pc-registration/silico/PARENet/pareconv/extensions/pointops/build/temp.linux-aarch64-cpython-310/src/labelstat/labelstat_cuda.o	9ee6c193e4ac5b1d
+2	6721	1778327045883617776	/home/kylo-ren/Documents/registration/pc-registration/silico/PARENet/pareconv/extensions/pointops/build/temp.linux-aarch64-cpython-310/src/grouping/grouping_cuda.o	b4152467d6d3ab46
+2	6742	1778327045883904496	/home/kylo-ren/Documents/registration/pc-registration/silico/PARENet/pareconv/extensions/pointops/build/temp.linux-aarch64-cpython-310/src/grouping_int/grouping_int_cuda.o	1424d5f78aedc67f
+2	6892	1778327045884086544	/home/kylo-ren/Documents/registration/pc-registration/silico/PARENet/pareconv/extensions/pointops/build/temp.linux-aarch64-cpython-310/src/interpolation/interpolation_cuda.o	c8bad0cb9a91c9dd
+2	6972	1778327045884338928	/home/kylo-ren/Documents/registration/pc-registration/silico/PARENet/pareconv/extensions/pointops/build/temp.linux-aarch64-cpython-310/src/knnquery/knnquery_cuda.o	f06f5fc1b1cd66a9
+1	7105	1778327045883184576	/home/kylo-ren/Documents/registration/pc-registration/silico/PARENet/pareconv/extensions/pointops/build/temp.linux-aarch64-cpython-310/src/featuredistribute/featuredistribute_cuda.o	a9569aee24d0419b
+3	14321	1778327045885013936	/home/kylo-ren/Documents/registration/pc-registration/silico/PARENet/pareconv/extensions/pointops/build/temp.linux-aarch64-cpython-310/src/pointops_api.o	4ef1236b10b4a35d
+1	15828	1778327045883379488	/home/kylo-ren/Documents/registration/pc-registration/silico/PARENet/pareconv/extensions/pointops/build/temp.linux-aarch64-cpython-310/src/featuredistribute/featuredistribute_cuda_kernel.o	a6471df49a58aa94
+2	15838	1778327045884006800	/home/kylo-ren/Documents/registration/pc-registration/silico/PARENet/pareconv/extensions/pointops/build/temp.linux-aarch64-cpython-310/src/grouping_int/grouping_int_cuda_kernel.o	5011f16d3b563443
+3	15892	1778327045884933248	/home/kylo-ren/Documents/registration/pc-registration/silico/PARENet/pareconv/extensions/pointops/build/temp.linux-aarch64-cpython-310/src/labelstat/labelstat_cuda_kernel.o	24dcbbf9cfecf914
+2	16324	1778327045884255616	/home/kylo-ren/Documents/registration/pc-registration/silico/PARENet/pareconv/extensions/pointops/build/temp.linux-aarch64-cpython-310/src/interpolation/interpolation_cuda_kernel.o	d89327ed97a3b14c
+1	16847	1778327045883015952	/home/kylo-ren/Documents/registration/pc-registration/silico/PARENet/pareconv/extensions/pointops/build/temp.linux-aarch64-cpython-310/src/ballquery/ballquery_cuda_kernel.o	7c97817e4c6619a8
+2	17028	1778327045883727216	/home/kylo-ren/Documents/registration/pc-registration/silico/PARENet/pareconv/extensions/pointops/build/temp.linux-aarch64-cpython-310/src/grouping/grouping_cuda_kernel.o	ddbd83f07c2a302d
+3	17070	1778327045884640496	/home/kylo-ren/Documents/registration/pc-registration/silico/PARENet/pareconv/extensions/pointops/build/temp.linux-aarch64-cpython-310/src/knnquery_heap/knnquery_heap_cuda_kernel.o	a477126f3c39498d
+2	17274	1778327045884422208	/home/kylo-ren/Documents/registration/pc-registration/silico/PARENet/pareconv/extensions/pointops/build/temp.linux-aarch64-cpython-310/src/knnquery/knnquery_cuda_kernel.o	cb9e310949b215eb
+3	17395	1778327045885344496	/home/kylo-ren/Documents/registration/pc-registration/silico/PARENet/pareconv/extensions/pointops/build/temp.linux-aarch64-cpython-310/src/sampling/sampling_cuda_kernel.o	a864150dda4de414

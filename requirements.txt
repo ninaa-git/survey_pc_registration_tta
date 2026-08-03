@@ -1,0 +1,16 @@
+numpy
+scipy
+tqdm
+coloredlogs
+easydict
+nibabel
+open3d
+scikit-learn
+scikit-image
+einops
+ipdb
+tensorboard
+tensorboardX
+wandb
+matplotlib
+plyfile

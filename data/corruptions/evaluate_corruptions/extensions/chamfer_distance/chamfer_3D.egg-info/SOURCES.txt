@@ -1,0 +1,7 @@
+setup.py
+/projets/Nbodelot/registration/pc-registration/silico/data/corruptions/evaluate_corruptions/extensions/chamfer_distance/chamfer3D.cu
+/projets/Nbodelot/registration/pc-registration/silico/data/corruptions/evaluate_corruptions/extensions/chamfer_distance/chamfer_cuda.cpp
+chamfer_3D.egg-info/PKG-INFO
+chamfer_3D.egg-info/SOURCES.txt
+chamfer_3D.egg-info/dependency_links.txt
+chamfer_3D.egg-info/top_level.txt
